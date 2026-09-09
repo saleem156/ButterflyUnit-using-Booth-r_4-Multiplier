@@ -1,5 +1,4 @@
 # ButterflyUnit-using-Booth-r_4-Multiplier
-# Butterfly Unit Using Radix-4 Booth Multiplier
 
 ## Overview
 
